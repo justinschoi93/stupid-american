@@ -1,9 +1,9 @@
 * {
-  background-color: #4CAF50; 
+  background-color: white; 
 }
 
 .button {
-  background-color: #4CAF50; 
+  background-color: white; 
   border: none; 
   cursor: pointer; 
   left: 0;
@@ -18,7 +18,7 @@
 /* Media query for iPhone */
 @media only screen and (max-width: 600px) {
   * {
-      background-color: #4CAF50; /* Adjust if needed */
+      background-color: white; /* Adjust if needed */
   }
 
   .button {
